@@ -1,0 +1,86 @@
+.nav-item{
+	padding:10px!important;
+	color: white;
+}
+
+.navbar .navbar-nav li a{
+	color: white !important;
+	font-size: 20px;
+	
+	letter-spacing: 2px;
+}
+.navbar .navbar-nav li a:hover{
+	color: #13aff0 !important;
+}
+.item{
+	background-color: #424242;
+	color: black;
+	margin-top: 15px;
+	margin-left: -2px;
+}
+
+
+.carousel-inner .carousel-item{
+	height: 500px !important;
+}
+.carousel-inner .carousel-item img{
+	height: 500px !important;
+}
+
+.carousel-caption{
+	margin-bottom: 180px;
+	align-items: center!important;
+	text-align: center;
+}
+.carousel-caption h3{
+	margin-right: -75px;
+	margin-bottom: 10px;
+	font-size: 50px;
+	font-family: Montserrat;
+}
+
+#products{
+	height: 400px;
+	background-color: grey;
+
+}
+#products h1{
+	margin-left: 40%;
+	color: white;
+}
+.prow{
+	margin-top: 2%;
+}
+.prow img{
+	width: 100%;
+}
+.product-top{
+	
+  	overflow: hidden;
+  	cursor: pointer;
+}
+
+.product-top img{
+	transition: all 1s ease-in-out;
+}
+.product-top:hover img{
+	
+	transform: scale(1.2);
+}
+.product-button{
+	color: white;
+	font-size: 20px;
+	margin-top: 5%;
+
+}
+
+footer{
+	height: 250px;
+	background: #424242;
+	color: white;
+}
+footer .fcontent{
+
+	padding: 20px;
+}
+
